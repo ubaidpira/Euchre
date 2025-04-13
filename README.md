@@ -1,1 +1,1 @@
-# TextEditor
+# Euchre
